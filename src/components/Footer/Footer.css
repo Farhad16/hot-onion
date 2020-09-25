@@ -1,0 +1,22 @@
+.footer{
+    height: 400px;
+    background-color: #191919;
+    color: aliceblue;
+}
+
+Container{
+    margin: 100px;
+   
+}
+
+.margin-top{
+    padding: 60px;
+}
+
+.footer img{
+    width: 250px;
+}
+
+.space{
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+.nav-border{
+    border-bottom: 1px solid rgb(224, 224, 224);
+    background-color: white;
+    color: black;
+}
+
+.navber{
+    margin: 0px 50px;
+}
+.navber img{
+    width: 200px;
+}
+
+.navLink{
+    color: black;
+    font-weight: 600;
+    padding: 6px 15px;
+}
+
+.navLinkCart{
+    color: black;
+    font-weight: 600;
+    padding: 6px 15px;
+}
+
+.navLinkCart:hover{
+    color: black;
+}
+
+.navLink:hover{
+    background-color: red;
+    text-decoration: none;
+    border-radius: 20px;
+    color: white;
+}
+
+.navLinkUser{
+    color: black;
+    font-weight: 600;
+    padding: 6px 15px;
+}

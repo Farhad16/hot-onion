@@ -1,0 +1,22 @@
+.navLinkFood{
+    color: black;
+    font-weight: bold;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+
+.navLinkFood:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.active{
+    border-bottom: 4px solid red;
+    color: red;
+}
+
+
+.foodSection{
+    margin-top: 50px;
+}
